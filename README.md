@@ -1,5 +1,5 @@
 # Capstone-project-Report
-IPL
+
 Project Details
 🏏 IPL Capstone Project – Data-Driven Cricket Analytics (SQL | Power BI | Python)
 
